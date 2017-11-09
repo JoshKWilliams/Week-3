@@ -6,7 +6,7 @@
 
 
 
-number_of_pupils = 137
+number_of_pupils = int(input('Enter number of pupils: '))
 football_teams = number_of_pupils / 5
 print(number_of_pupils)
 print(football_teams)
